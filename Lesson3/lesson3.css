@@ -18,7 +18,7 @@ main {
     display: flex;
 }
 
-.thumbnail {
+.thumbnail { /*additional background was on figma's example*/
     max-width: 1762px;
     width: 100%;
     margin-inline: auto;
