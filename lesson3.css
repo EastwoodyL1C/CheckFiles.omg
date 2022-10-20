@@ -128,11 +128,12 @@ h1{
     height: auto;
     border-bottom-left-radius: 250px;
     border: 7px solid #000000;
-    position: relative;
+    position: relative;   
 }
 
 .image {
     position: relative;
+    right: -60px;
 }
 
 .cover {
